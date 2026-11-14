@@ -1,0 +1,56 @@
+{
+  "common": {
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "create": "Создать",
+    "search": "Поиск",
+    "loading": "Загрузка...",
+    "error": "Ошибка",
+    "success": "Успешно"
+  },
+  "auth": {
+    "login": "Войти",
+    "register": "Регистрация",
+    "logout": "Выйти",
+    "email": "Email",
+    "password": "Пароль",
+    "confirmPassword": "Подтвердите пароль",
+    "forgotPassword": "Забыли пароль?",
+    "noAccount": "Нет аккаунта?",
+    "haveAccount": "Уже есть аккаунт?"
+  },
+  "rooms": {
+    "title": "Комнаты",
+    "create": "Создать комнату",
+    "join": "Присоединиться",
+    "leave": "Покинуть комнату",
+    "name": "Название комнаты",
+    "description": "Описание",
+    "public": "Публичная",
+    "private": "Приватная",
+    "permanent": "Постоянная",
+    "temporary": "Временная"
+  },
+  "courses": {
+    "title": "Курсы",
+    "create": "Создать курс",
+    "lessons": "Уроки",
+    "addLesson": "Добавить урок",
+    "progress": "Прогресс"
+  },
+  "chat": {
+    "sendMessage": "Отправить сообщение",
+    "typing": "печатает...",
+    "attachFile": "Прикрепить файл"
+  },
+  "video": {
+    "addVideo": "Добавить видео",
+    "play": "Воспроизвести",
+    "pause": "Пауза",
+    "syncMode": "Режим синхронизации",
+    "gatherAll": "Собрать всех",
+    "pauseAll": "Пауза у всех"
+  }
+}

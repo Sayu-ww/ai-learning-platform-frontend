@@ -1,0 +1,56 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?"
+  },
+  "rooms": {
+    "title": "Rooms",
+    "create": "Create Room",
+    "join": "Join Room",
+    "leave": "Leave Room",
+    "name": "Room Name",
+    "description": "Description",
+    "public": "Public",
+    "private": "Private",
+    "permanent": "Permanent",
+    "temporary": "Temporary"
+  },
+  "courses": {
+    "title": "Courses",
+    "create": "Create Course",
+    "lessons": "Lessons",
+    "addLesson": "Add Lesson",
+    "progress": "Progress"
+  },
+  "chat": {
+    "sendMessage": "Send message",
+    "typing": "typing...",
+    "attachFile": "Attach file"
+  },
+  "video": {
+    "addVideo": "Add Video",
+    "play": "Play",
+    "pause": "Pause",
+    "syncMode": "Sync Mode",
+    "gatherAll": "Gather All",
+    "pauseAll": "Pause All"
+  }
+}
